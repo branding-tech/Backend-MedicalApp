@@ -1,0 +1,10 @@
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/bin/Debug/netstandard2.1/Ezayak.Lib.deps.json
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/bin/Debug/netstandard2.1/Ezayak.Lib.dll
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/bin/Debug/netstandard2.1/Ezayak.Lib.pdb
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.csproj.AssemblyReference.cache
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.AssemblyInfoInputs.cache
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.AssemblyInfo.cs
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.csproj.CoreCompileInputs.cache
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.dll
+/Users/yasser/Projects/Ezayak/Ezayak.Lib/obj/Debug/netstandard2.1/Ezayak.Lib.pdb
